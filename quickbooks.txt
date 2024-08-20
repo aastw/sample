@@ -1,0 +1,4 @@
+﻿Date,Account,Balance
+1/30/24,Primary Checking,"35,000"
+1/30/24,Longterm Savings,5547
+1/30/24,Payroll Buffer,12000

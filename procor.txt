@@ -1,0 +1,12 @@
+﻿Date,Project,Milestone,Amount
+2/1/24,Johnson Towers,Concrete,25467
+2/15/24,Johnson Towers,Plumbing,36888
+3/1/24,Verizon Campus,Demo,22448
+3/15/24,Johnson Towers,Electrical,47886
+6/1/24,Egbert Properties,Landscaping grade,35000
+6/1/24,Johnson Towers,Framing,55334
+8/1/24,Verizon Campus,Marble Walls,154888
+9/1/24,Johnson Towers,Flooring,33776
+9/1/24,Egbert Properties,Tree Installation,48000
+12/1/24,Verizon Campus,Lighting,66000
+12/1/24,Johnson Towers,Grand Entryway,154332
